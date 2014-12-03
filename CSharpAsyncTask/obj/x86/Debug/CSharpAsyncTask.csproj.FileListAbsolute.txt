@@ -1,0 +1,9 @@
+E:\own\CSharpAsyncTask\CSharpAsyncTask\bin\Debug\CSharpAsyncTask.exe
+E:\own\CSharpAsyncTask\CSharpAsyncTask\bin\Debug\CSharpAsyncTask.pdb
+E:\own\CSharpAsyncTask\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.Properties.Resources.resources
+E:\own\CSharpAsyncTask\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.csproj.GenerateResource.Cache
+E:\own\CSharpAsyncTask\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.exe
+E:\own\CSharpAsyncTask\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.pdb
+E:\own\CSharpAsyncTask\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.FormAyncTask.resources
+E:\own\CSharpAsyncTask\CSharpAsyncTaskExample\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.exe
+E:\own\CSharpAsyncTask\CSharpAsyncTaskExample\CSharpAsyncTask\obj\x86\Debug\CSharpAsyncTask.pdb
